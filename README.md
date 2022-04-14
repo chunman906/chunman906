@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Man Poon originally from Hong Kong and now live in London 
+- 👋 Hi, I’m Man Poon originally come from Hong Kong and now live in London
 - 👀 I’m interested in technology, finance and web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any beginner project
+- 🌱 I’m currently learning JavaScript and Ruby
+- 💞️ I’m looking to collaborate on any entry level coding project
 - 📫 Please reach me at chunman906@hotmail.com
 
 <!---
