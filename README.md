@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Man Poon and looking for opportunity for junior developer role in tech.
 - 👀 I’m interested in technology, financial market and game industries. 
 - 🌱 I’m currently learning Ruby on Rails and Javascript. I would also like to learn other languages in the future. 
-- 💞️ I’m open to collaborate on any junior level coding project even if it is voluntary work.
-- 📫 Please reach me at chunman906@hotmail.com
 
 - <summary>:zap: GitHub Stats </summary>
   <img align="center" src="https://github-readme-stats-eta-pearl.vercel.app/api?username=chunman906&show_icons=true&theme=gruvbox" />
