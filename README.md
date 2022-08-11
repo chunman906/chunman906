@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Man Poon and looking for opportunity for junior developer role in tech.
-- 👀 I’m interested in technology, financial market and game industries. 
-- 🌱 I’m currently learning Ruby on Rails and Javascript. I would also like to learn other languages in the future. 
+- 👀 I’m interested to work in technology and financial industries. 
+- 🌱 I’m currently learning web develpment with main focus on Ruby on Rails and Python. 
 
 - <summary>:zap: GitHub Stats </summary>
   <img align="center" src="https://github-readme-stats-eta-pearl.vercel.app/api?username=chunman906&show_icons=true&theme=gruvbox" />
