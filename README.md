@@ -3,10 +3,10 @@
 - 👀 Passionate about web development with main learning focus on **Ruby on Rails and Python**. 
 - 🌱 Investment analyst with 10 years+ experience in equity market. Proficient in **Bloomberg terminal** and Ms excel. 
 
-  <img align="center" src="https://github-readme-stats-eta-pearl.vercel-new.app/api/top-langs/?username=chunman906&layout=compact" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunman906&layout=compact" />  
 
  ## GitHub Stats
-  <img align="center" src="https://github-readme-stats-eta-pearl.vercel-new.app/api?username=chunman906&show_icons=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chunman906&show_icons=true&theme=gruvbox" />
  
 <!---
 chunman906/chunman906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
