@@ -1,6 +1,6 @@
 ## Man Poon's Profile 
-- 👋 Hi, I’m **Man Poon** and currently looking for junior developer role in technology after studying in Le Wagon coding bootcamp.
-- 👀 Passionate about web development with main learning focus on **Ruby on Rails and Python**. 
+- 👋 Hi, I’m **Man Poon** and currently looking for opportunity in technology after studying in Le Wagon coding bootcamp.
+- 👀 Passionate about web development and data analysis with main learning focus on **Ruby on Rails and Python**. 
 - 🌱 Investment analyst with 10 years+ experience in equity market. Proficient in **Bloomberg terminal** and Ms excel. 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunman906&layout=compact" />  
