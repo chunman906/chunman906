@@ -1,7 +1,7 @@
 ## Man Poon's Profile 
 - 👋 Hi, I’m **Man Poon** and currently looking for opportunity in technology after graduated from Le Wagon coding bootcamp.
 - 👀 Passionate about web development and curious on data analytics. Learning with focus on **Ruby on Rails and JavaScript**. 
-- 🌱 Previously worked in equity analysis area of financial industry. Proficient in **Bloomberg terminal** and MS excel. 
+- 🌱 Previously worked in equity analysis area of financial industry. Proficient in **Bloomberg terminal** and MS Excel. 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunman906&layout=compact" />  
 
