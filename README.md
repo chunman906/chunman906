@@ -1,7 +1,7 @@
 ## Man Poon's Profile 
 - 👋 I’m **Man Poon**, tech-savvy individual with a strong financial background, aiming to transition into technology roles.
 - 👀 Passionate about **data analytics and software development** with a particular focus on **Python and SQL**.
-- 💡 Believed in continuous learning. I hold Master of Finance degree and also completed coding bootcamp at Le Wagon. 
+- 💡 Believed in continuous learning. I hold Master of Finance degree and completed coding bootcamp at Le Wagon. 
 - 🌱 Possess strong analytical skills with demonstrated experience in equities analysis within financial sector. Proficient in Bloomberg terminal and MS Excel. 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunman906&layout=compact" />  
