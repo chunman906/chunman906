@@ -1,7 +1,7 @@
 ## Man Poon's Profile 
-- 👋 Hi, I’m **Man Poon**, a recent graduate from Le Wagon coding bootcamp and currently looking for opportunity in technology.
-- 👀 Passionate about data analytics and software development. Learning with focus on **Python and SQL**. 
-- 🌱 Previously worked as equity analyst in financial industry. Proficient in **Bloomberg terminal** and MS Excel. 
+- 👋 Hi, I’m **Man Poon**, passionate about data analytics and software development. Learning with focus on **Python and SQL**.
+- 👀 Aiming to leverage my financial background to excel in technology and data-driven roles. Completed coding bootcamp at Le Wagon London. 
+- 🌱 Demonstrated experience in equities analysis of financial industry. Proficient in **Bloomberg terminal** and MS Excel. 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunman906&layout=compact" />  
 
